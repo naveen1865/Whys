@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# builds
+dist/
+coverage/
+*.log
+
+# env
+.env
+apps-v0/**/.env
+packages/**/.env
+
+# temp uploads
+apps-v0/whys-v0-api/uploads/
+
+# expo cache
+apps-v0/whys-v0-mobile/.expo/
+apps-v0/whys-v0-mobile/.expo-shared/

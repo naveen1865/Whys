@@ -1,0 +1,8 @@
+{
+  "name": "whys-code",
+  "private": true,
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  }
+}
